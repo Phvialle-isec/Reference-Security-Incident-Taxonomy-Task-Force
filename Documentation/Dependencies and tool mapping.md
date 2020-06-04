@@ -21,6 +21,7 @@ list here all tools that make use of the taxonomy
   * [INCIBE-CERT](https://www.incibe-cert.es)
   * [SWITCH-CERT](https://www.switch.ch/security/)
   * [LITNET-CERT](https://cert.litnet.lt/)
+  * [SOC INTRINSEC](https://www.intrinsec.com/soc-securite-operationnelle/)
   *  ..and implictly most [users of IntelMQ](https://github.com/certtools/intelmq/network/members)
 
 
